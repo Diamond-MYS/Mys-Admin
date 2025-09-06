@@ -1,3 +1,4 @@
+-- whitelist.lua
 whitelist = {
     ["01xMYS"] = "owner",
     ["notmys67"] = "owner",
