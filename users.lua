@@ -1,4 +1,4 @@
-```-- whitelist.lua
+-- whitelist.lua
 whitelist = {
     ["01xMYS"] = "owner",
     ["notmys67"] = "owner",
@@ -12,4 +12,3 @@ whitelist = {
     ["Bondzo72"] = "Admin",
     ["carmenanswerme"] = "CoOwner",
 }
-```
