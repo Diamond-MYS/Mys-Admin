@@ -18,7 +18,7 @@ local Giveaway1 = {"Dupersigmadupe"}
 
 local RankColors = {
     ["mys.owner"] = { primary = Color3.fromRGB(0, 0, 0), accent = Color3.fromRGB(255, 0, 0) },
-    ["mys.co-owner"] = { primary = Color3.fromRGB(0, 0, 0), accent = Color3.fromRGB(138, 43, 226) },
+    ["mys.co-owner"] = { primary = Color3.fromRGB(0, 0, 0), accent = Color3.fromRGB(255, 180, 0) },
     ["mys.staff"] = { primary = Color3.fromRGB(0, 0, 0), accent = Color3.fromRGB(255, 252, 132) },
     ["mys.advertiser"] = { primary = Color3.fromRGB(0, 0, 0), accent = Color3.fromRGB(255, 69, 0) },
     ["I Like Feet"] = { primary = Color3.fromRGB(0, 0, 0), accent = Color3.fromRGB(225, 225, 225) },
