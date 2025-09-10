@@ -10,7 +10,7 @@ local function containsIgnoreCase(tbl, name)
 end
 
 local Owners = {"01xMYS", "Strixxsy"}
-local CoOwner = {"e2edeq"}
+local CoOwner = {"e2edeq", "jtyrjetahtersjrt"}
 local MysStaff = {"Rebootedpoppyrea8", "JAHBELT", "Dogenurgos", "deadvibexzs", "Jemenzboy1090", "chip_xoxalt"}
 local Advertisers = {}
 local Helper = {}
