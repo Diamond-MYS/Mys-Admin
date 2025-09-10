@@ -11,7 +11,7 @@ end
 
 local Owners = {"01xMYS", "Strixxsy"}
 local CoOwner = {"e2edeq"}
-local MysStaff = {"Rebootedpoppyrea8", "JAHBELT", "Dogenurgos", "deadvibexzs"}
+local MysStaff = {"Rebootedpoppyrea8", "JAHBELT", "Dogenurgos", "deadvibexzs", "Jemenzboy1090"}
 local Advertisers = {}
 local Helper = {}
 local Giveaway1 = {"Dupersigmadupe"}
