@@ -8,7 +8,6 @@ whitelist = {
     ["Jemenzboy1090"] = "Admin",
     ["jtyrjetahtersjrt"] = "CoOwner",
     ["chip_xoxalt"] = "Admin",
-    ["carmenanswerme"] = "CoOwner",
     ["JAHBELT"] = "moderator",
     ["Dogenurgos"] = "moderator",
     ["deadvibexzs"] = "moderator",
