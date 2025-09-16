@@ -11,6 +11,6 @@ whitelist = {
     ["JAHBELT"] = "moderator",
     ["Dogenurgos"] = "moderator",
     ["deadvibexzs"] = "moderator",
-    ["Rebootedpoppyrea8"] = "moderator",
+    ["Rebootedpoppyrea8"] = "Admin",
     ["CoolBoy222860"] = "moderator",
 }
