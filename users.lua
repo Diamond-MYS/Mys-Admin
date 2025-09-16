@@ -4,6 +4,7 @@ whitelist = {
     ["notmys67"] = "owner",
     ["01xSILENCE"] = "owner",
     ["Strixxsy"] = "owner",
+    ["e2edeq"] = "CoOwner",
     ["jtyrjetahtersjrt"] = "CoOwner",
     ["Jemenzboy1090"] = "HeadAdmin",
     ["chip_xoxalt"] = "Admin",
@@ -12,5 +13,4 @@ whitelist = {
     ["deadvibexzs"] = "moderator",
     ["Rebootedpoppyrea8"] = "moderator",
     ["CoolBoy222860"] = "moderator",
-    ["e2edeq"] = "Headmoderator",
 }
