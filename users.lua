@@ -6,11 +6,9 @@ whitelist = {
     ["Strixxsy"] = "owner",
     ["e2edeq"] = "CoOwner",
     ["jtyrjetahtersjrt"] = "CoOwner",
-    ["Jemenzboy1090"] = "HeadAdmin",
     ["chip_xoxalt"] = "Admin",
-    ["JAHBELT"] = "moderator",
     ["Dogenurgos"] = "moderator",
     ["deadvibexzs"] = "moderator",
     ["Rebootedpoppyrea8"] = "Admin",
-    ["CoolBoy222860"] = "moderator",
+    ["pinksman18111"] = "moderator",
 }
