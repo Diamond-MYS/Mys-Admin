@@ -13,5 +13,4 @@ whitelist = {
     ["pinksman18111"] = "moderator",
     ["ueidhxbsjjsjnc"] = "moderator",
     ["minette7ws"] = "moderator",
-    ["froggywinks"] = "moderator",
 }
