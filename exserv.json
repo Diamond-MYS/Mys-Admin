@@ -1,0 +1,6 @@
+[
+  "getfenv","getgenv","getsenv","getrawmetatable","getupvalue","getupvalues",
+  "getrenv","hookfunction","hookmetamethod","makefolder","writefile","readfile",
+  "isfile","delfile","syn","identifyexecutor","protect_gui","firetouchinterest",
+  "queue_on_teleport","spawn","task.spawn"
+]
