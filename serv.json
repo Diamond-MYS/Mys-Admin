@@ -7,7 +7,7 @@
   "StarterPack","StarterGui","CoreGui","LocalizationService","PolicyService","JointsService",
   "CollectionService","PhysicsService","BadgeService","GeometryService","FriendService",
   "InsertService","GamePassService","Debris","CookiesService","Selection","UserInputService",
-  "InputBegan", "KeyboardService","MouseService","VRService","ContextActionService","ScriptService",
+  "KeyboardService","MouseService","VRService","ContextActionService","ScriptService",
   "ScriptContext","AssetService","TouchInputService","BrowserService","CaptureService",
   "AppStorageService","AnalyticsService","HeatmapService","RbxAnalyticsService","HttpService",
   "Lighting","ThirdPartyUserService","PlatformFriendsService","PlatformCloudStorageService",
