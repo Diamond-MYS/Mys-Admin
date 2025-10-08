@@ -23,7 +23,7 @@ local RankColors = {
     ["mys.advertiser"] = { primary = Color3.fromRGB(0, 0, 0), accent = Color3.fromRGB(255, 69, 0) },
     ["I Like Feet"] = { primary = Color3.fromRGB(0, 0, 0), accent = Color3.fromRGB(225, 225, 225) },
     ["mys.helper"] = { primary = Color3.fromRGB(0, 0, 0), accent = Color3.fromRGB(169, 169, 169) },
-    ["mys.client user"] = { primary = Color3.fromRGB(0, 0, 0), accent = Color3.fromRGB(102, 0, 255) },
+    ["mys.client user"] = { primary = Color3.fromRGB(0, 0, 0), accent = Color3.fromRGB(1, 0.835294, 0.968627) },
     ["mys.premium user"] = { primary = Color3.fromRGB(0, 0, 0), accent = Color3.fromRGB(16, 139, 211) }
 }
 
