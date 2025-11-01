@@ -11,7 +11,7 @@ end
 
 local Owners = {"01xMYS", "Strixxsy", "01xSILENCE"}
 local CoOwner = {"e2edeq", "jtyrjetahtersjrt", "deadvibexzs"}
-local MysStaff = {"Dogenurgos", "chip_xoxalt", "pinksman18111", "ueidhxbsjjsjnc", "minette7ws", "gotonlyfent", "iloveroblox113736", "MarcoMax43", "AleatiaRe", "TeccaOnPC", "TATOOMAN271", "GrimsStillAsleep", "drippymiless"}
+local MysStaff = {"Dogenurgos", "chip_xoxalt", "pinksman18111", "ueidhxbsjjsjnc", "minette7ws", "gotonlyfent", "iloveroblox113736", "MarcoMax43", "AleatiaRe", "TeccaOnPC", "TATOOMAN271", "GrimsStillAsleep", "drippymiless", "Bumagatsu"}
 local Advertisers = {}
 local Helper = {}
 local Giveaway1 = {"Dupersigmadupe"}
